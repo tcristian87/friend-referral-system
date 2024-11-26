@@ -1,0 +1,22 @@
+.referral-settings-confirmation p { font-size: 16px; color: #333; }
+.referral-settings-confirmation a { color: #0066cc; text-decoration: none; }
+.referral-settings-confirmation a:hover { text-decoration: underline; }
+.license-status {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.license-status a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.license-status a:hover {
+    text-decoration: underline;
+}
+
+.license-status strong {
+    font-weight: bold;
+    color: red;
+}

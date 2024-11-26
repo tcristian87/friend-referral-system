@@ -1,0 +1,43 @@
+.refer_form_wrapper{
+    display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  position: relative;
+}
+.refer_form_wrapper span{
+    font-size: 1em;
+}
+.code_copy_status{
+    padding: 10px 0px;
+}
+.refer_a_friend {
+    display: flex;
+    flex-direction: column;
+}
+.notice.notice-warning{
+    text-align: center;
+}
+.refer_a_friend .name-email-input input{
+    padding: 10px;
+}
+.referer_input.friend_name{
+   margin-right: 10px;
+
+}
+.refer_a_friend .refer_submit{
+    padding: 10px 0px;
+    margin: 10px 0px;
+}
+.refer-success-message{
+    position: absolute;
+  background-color: #2b3;
+  padding: 10px;
+  bottom: -33px;
+  margin-top: 10px;
+}
+.error-message{
+    text-align: center;
+}
